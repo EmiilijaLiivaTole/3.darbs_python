@@ -1,0 +1,1 @@
+Pirmdiena, 10. noembris, pildām uzdevumus.
