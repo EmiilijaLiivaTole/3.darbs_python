@@ -10,10 +10,9 @@ def spec_summa(a,b): # a un b ir parametri
         return 20
     else:
         return kopaa
-    
-    # piemērs
-    skaitlis1=int(input("Ievadi pirmo skaitli:"))
-    skaitlis2=int(input("Ievadi otro skaitli:"))
+ # piemērs
+skaitlis1=int(input("Ievadi pirmo skaitli:"))
+skaitlis2=int(input("Ievadi otro skaitli:"))
 
-    rezultats=spec_summa(skaitlis1, skaitlis2)
-    print(f"Rezultats ir :{rezultats}")
+rezultats=spec_summa(skaitlis1, skaitlis2)
+print(f"Rezultats ir :{rezultats}")
